@@ -18,6 +18,9 @@
         creates a new Excel spreadsheet that contains your data, formatted as in the template. It
         works with .xls and .xlsx template spreadsheets.
     </description>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
     <build>
         <plugins>
             <plugin>
