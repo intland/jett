@@ -57,12 +57,12 @@
         <dependency>
             <artifactId>poi</artifactId>
             <groupId>org.apache.poi</groupId>
-            <version>5.1.0</version>
+            <version>5.0.0</version>
         </dependency>
         <dependency>
             <artifactId>poi-ooxml</artifactId>
             <groupId>org.apache.poi</groupId>
-            <version>5.1.0</version>
+            <version>5.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
